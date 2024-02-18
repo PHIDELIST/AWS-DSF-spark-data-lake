@@ -1,4 +1,5 @@
-# Spark Data Lake example 
+# AWS Spark Data Lake 
+![image](https://github.com/PHIDELIST/AWS-DSF-spark-data-lake/assets/64526896/151f692e-ca6b-40a1-95cd-fc337aee09f8)
 
 In this example, we build a Data Lake and process aggregations from the NY taxi dataset with Spark application. This `README` is a step-by-step deployment guide. You can read more details about this example solution in the [documentation](https://awslabs.github.io/data-solutions-framework-on-aws/)
 
